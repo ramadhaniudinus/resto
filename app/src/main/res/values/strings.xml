@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aplikasi Resto</string>
+    <string name="resto_name">Rumah Makan Sedap Rasa</string>
+    <string name="image_description">Image Of Resto</string>
+    <string name="resto_desc">Selamat datang di restoran kami yang penuh cita rasa! Dengan menu yang menggabungkan tradisi kuliner autentik dan inovasi modern. Nikmati sentuhan kreatif dari dapur kami yang penuh semangat, serta suasana yang hangat dan ramah. </string>
+    <string name="resto_address">Jl. Imam Bonjol No.207, Pendrikan Kidul, Kec. Semarang Tengah, Kota Semarang, Jawa Tengah 50131</string>
+</resources>
